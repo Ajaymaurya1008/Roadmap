@@ -15,9 +15,9 @@ Also, I learnt a lot of things from Anuj Bhaiya Web Development playlist
 https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n
 
 
-Then you can finally jump on to JS
-Javascript will give life to your website and have to give the maximum amount of your time in leaning this because there's no end to it
-JS you can learn it from bootcamps or detailed course as per your choice 
+Then you can finally jump on to JS.
+It will give life to your website and you have to give the maximum amount of your time in leaning this because there's no end to it
+You can learn JS from bootcamps or detailed course as per your choice 
 https://youtu.be/jS4aFq5-91M
 
 By that time, you can also Learn about CSS utilities
